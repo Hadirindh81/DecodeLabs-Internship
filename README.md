@@ -6,8 +6,9 @@ This repository contains Python projects completed as part of the DecodeLabs int
 
 | Project | Description |
 | --- | --- |
-| [To-Do List](Projects/Project_1_Todo_List/README.md) | Add, view, search, and remove tasks in a command-line application. |
-| [Expense Tracker](Projects/Project_2_Expense_Tracker/README.md) | Enter expenses and view a transaction list and total. |
+| [To-Do List](Projects/Task01_Muhammad_Abdul_Hadi/README.md) | Add, view, search, and remove tasks in a command-line application. |
+| [Expense Tracker](Projects/Task02_Muhammad_Abdul_Hadi/README.md) | Enter expenses and view a transaction list and total. |
+| [Random Password Generator](Projects/Task03_Muhammad_Abdul_Hadi/README.md) | Generate a password with lowercase, uppercase, numeric, and special characters. |
 
 ## Requirements
 
