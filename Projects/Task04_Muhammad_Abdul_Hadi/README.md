@@ -55,18 +55,3 @@ You will be asked 5 questions. Try to answer them correctly.
 Type 'quit' anytime to exit the quiz.
 ```
 
-## Notes
-
-- This is a small educational project and does not save scores or user data.
-- No external libraries are required.
-- The quiz questions are hardcoded in the script.
-
-## Learning value
-
-This project demonstrates essential Python programming ideas such as:
-
-- lists and dictionaries
-- `for` and `while` loops
-- `if/else` decision-making
-- string handling with `.strip()` and `.upper()`
-- simple user experience design in the terminal
